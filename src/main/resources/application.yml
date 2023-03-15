@@ -1,0 +1,10 @@
+dubbo:
+  application:
+    name: dubbo-springboot-demo-provider
+  protocol:
+    name: dubbo
+    port: -1
+
+logging:
+  level:
+    com.alibaba.dubbo: debug
